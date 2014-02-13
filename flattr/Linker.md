@@ -13,7 +13,7 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> ReliveRadio</a>
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> germanstudent</a> 
 
-<!--i42n //BITTE EINTRAGEN-->
+<!--i42n-->
 <a href="https://flattr.com/profile/i42n">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> Stefan (i42n)</a> 
