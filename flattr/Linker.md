@@ -8,25 +8,25 @@ Bitte noch nachmoderieren
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> ReliveRadio</a>  
 
-<!--Germanstudent //BITTE EINTRAGEN-->
-<a href="https://flattr.com/profile/....">
+<!--Germanstudent-->
+<a href="http://flattr.com/profile/germanstudent">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> germanstudent</a> 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Markus (germanstudent)</a> 
 
 <!--i42n-->
 <a href="https://flattr.com/profile/i42n">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> Stefan (i42n)</a> 
 
-<!--HerrVonSpreck //BITTE EINTRAGEN-->
-<a href="https://flattr.com/profile/....">
+<!--HerrVonSpreck-->
+<a href="http://flattr.com/profile/teo">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Lars</a>
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Lars (herrvonspeck)</a>
 
 <!--McCouman-->
 <a href="https://flattr.com/profile/mccouman">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael (mccouman)</a> 
 
 
 <!--FlorianDotOrg //BITTE EINTRAGEN-->
