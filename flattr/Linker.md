@@ -1,6 +1,10 @@
 ##Flattrlinks
 
-Bitte noch nachmoderieren
+
+Liste aller Mitwirkenden und Ihre Flattr Accounts.
+Zum nachschlagen und Verlinken in den Githubprojekten / Websites & Co
+
+**Bitte noch nachmoderieren: Florian!**
 
 <pre>
 <!--Relive Radio-->
