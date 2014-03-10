@@ -33,9 +33,9 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> Lars (herrvonspec
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael (mccouman)</a> 
 
 
-<!--FlorianDotOrg //BITTE EINTRAGEN-->
-<a href="https://flattr.com/profile/....">
+<!--FlorianDotOrg-->
+<a href="https://flattr.com/profile/floriandotorg">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Florian</a> 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Florian (floriandotorg)</a> 
 
 </pre>
