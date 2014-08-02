@@ -18,7 +18,7 @@
    inkscape:export-filename="/Users/McCouman/Desktop/rr-navis-for-github.png"
    inkscape:export-xdpi="78"
    inkscape:export-ydpi="78"
-   sodipodi:docname="Neues Dokument 1">
+   sodipodi:docname="rr-navis-for-github.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,13 +28,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="394.56949"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="951.97836"
      inkscape:cy="835.7229"
      inkscape:document-units="px"
-     inkscape:current-layer="g4276"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1289"
+     inkscape:window-width="1280"
      inkscape:window-height="647"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,16 +55,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:0.64797506999999999;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect2985"
-       width="717.14288"
-       height="48.57143"
-       x="11.428572"
-       y="15.219325"
-       inkscape:export-filename="/Users/McCouman/Desktop/nav-system.png"
-       inkscape:export-xdpi="78"
-       inkscape:export-ydpi="78" />
+    <path
+       style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 11.4375 15.21875 L 11.4375 63.78125 L 950 63.78125 L 950 15.21875 L 11.4375 15.21875 z "
+       id="rect2985" />
     <image
        y="16.519291"
        x="12.746217"
@@ -298,13 +292,10 @@
              sodipodi:role="line">Blog</tspan></text>
       </g>
     </g>
-    <rect
-       y="80.219322"
-       x="11.428572"
-       height="48.57143"
-       width="717.14288"
-       id="rect3965"
+    <path
        style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 11.4375 80.21875 L 11.4375 128.78125 L 950 128.78125 L 950 80.21875 L 11.4375 80.21875 z "
+       id="rect3965"
        inkscape:export-filename="/Users/McCouman/Desktop/nav-system.png"
        inkscape:export-xdpi="78"
        inkscape:export-ydpi="78" />
@@ -507,13 +498,10 @@
              y="140.37662">Blog</tspan></text>
       </g>
     </g>
-    <rect
-       y="143.79076"
-       x="9.2857141"
-       height="48.57143"
-       width="717.14288"
-       id="rect4036"
+    <path
        style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 9.28125 143.78125 L 9.28125 192.375 L 950 192.375 L 950 143.78125 L 9.28125 143.78125 z "
+       id="rect4036"
        inkscape:export-filename="/Users/McCouman/Desktop/nav-blog.png"
        inkscape:export-xdpi="78"
        inkscape:export-ydpi="78" />
@@ -719,23 +707,29 @@
              y="140.37662">Blog</tspan></text>
       </g>
     </g>
-    <rect
-       y="203.79076"
-       x="9.2857141"
-       height="48.57143"
-       width="717.14288"
+    <path
+       style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 9.28125 203.78125 L 9.28125 252.375 L 950 252.375 L 950 203.78125 L 9.28125 203.78125 z "
        id="rect4102"
-       style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78" />
     <image
        width="47.23856"
        height="45.319778"
        xlink:href="file:///Users/McCouman/Desktop/Bildschirmfoto%202014-08-02%20um%2021.48.22.png"
        id="image4104"
        x="10.603359"
-       y="205.09071" />
+       y="205.09071"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78" />
     <g
        transform="translate(19.285714,188.57143)"
-       id="g4106">
+       id="g4106"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          id="g4108"
          transform="matrix(0.72240803,0,0,1,17.806049,0)">
@@ -770,7 +764,10 @@
     <g
        transform="translate(107.95145,188.57143)"
        id="g4118"
-       style="fill:#008000">
+       style="fill:#008000"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          id="g4120"
          transform="matrix(0.75250836,0,0,1,53.250917,0)"
@@ -805,7 +802,10 @@
     </g>
     <g
        transform="translate(247.09253,188.57143)"
-       id="g4130">
+       id="g4130"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          id="g4132">
         <rect
@@ -838,7 +838,10 @@
     </g>
     <g
        transform="translate(377.40221,189.07651)"
-       id="g4142">
+       id="g4142"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          transform="matrix(0.75250836,0,0,1,29.007256,-0.50507396)"
          id="g4144">
@@ -872,7 +875,10 @@
     </g>
     <g
        id="g4154"
-       transform="translate(150.60554,74.424189)">
+       transform="translate(150.60554,74.424189)"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-plugins.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          transform="matrix(0.75250836,0,0,1,-96.25166,114.14724)"
          id="g4156" />
@@ -909,13 +915,10 @@
              y="140.37662">Blog</tspan></text>
       </g>
     </g>
-    <rect
-       y="263.79074"
-       x="8.5714293"
-       height="48.57143"
-       width="717.14288"
-       id="rect4168"
+    <path
        style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 8.5625 263.78125 L 8.5625 312.375 L 950 312.375 L 950 263.78125 L 8.5625 263.78125 z "
+       id="rect4168"
        inkscape:export-filename="/Users/McCouman/Desktop/nav-apps.png"
        inkscape:export-xdpi="78"
        inkscape:export-ydpi="78" />
@@ -1119,13 +1122,10 @@
              y="140.37662">Blog</tspan></text>
       </g>
     </g>
-    <rect
-       y="326.64789"
-       x="8.5714293"
-       height="48.57143"
-       width="717.14288"
-       id="rect4234"
+    <path
        style="opacity:0.64797507;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 8.5625 326.65625 L 8.5625 375.21875 L 950 375.21875 L 950 326.65625 L 8.5625 326.65625 z "
+       id="rect4234"
        inkscape:export-filename="/Users/McCouman/Desktop/nav-docus.png"
        inkscape:export-xdpi="78"
        inkscape:export-ydpi="78" />
@@ -1252,7 +1252,10 @@
     <g
        transform="translate(376.68793,311.93365)"
        id="g4274"
-       style="fill:#800080">
+       style="fill:#800080"
+       inkscape:export-filename="/Users/McCouman/Desktop/nav-docus.png"
+       inkscape:export-xdpi="78"
+       inkscape:export-ydpi="78">
       <g
          transform="matrix(0.75250836,0,0,1,29.007256,-0.50507396)"
          id="g4276"
